@@ -1,0 +1,11 @@
+﻿Patchnote v0.0.16
+
+feat(48. 48.0. 48.0.1): add the Merchant's Ledger relic to record shop interactions and show merchant totals in relic inspect, per-floor run history hover entries, and a dedicated ledger summary panel.
+changes(48.2.): keep Merchant's Ledger history compatible across stats format updates.
+changes: move the Merchant's Ledger summary into the relic inspect flavor area and add matching explanatory flavor text.
+changes(50.): refine relic selling rules for upon-pickup, used-up, disabled, act-expired, and always-blocked relics.
+changes(46.2.): show clearer reasons when selling is blocked by the Rug, Ectoplasm, or the Merchant's gold limit, and warn before buying the Rug with Ectoplasm.
+fix(46.2.): stop Merchant's gold from increasing when you sell items back to the Merchant.
+fix(46.2.): refresh Merchant's gold after room-entry gold changes.
+fix: stop the run-history Merchant's Ledger summary panel from duplicating when switching runs or players.
+fix: keep merchant floor-history headers and entries aligned with the existing run-history hover-tip visuals.

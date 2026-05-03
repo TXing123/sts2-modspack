@@ -1,0 +1,13 @@
+﻿{
+    "id":  "BasicMod",
+    "name":  "Sell mod",
+    "author":  "Kaiz",
+    "description":  "Sell mod - created from a Alchyr/ModTemplate-StS2 for use with BaseLib",
+    "version":  "v0.0.16",
+    "has_pck":  true,
+    "has_dll":  true,
+    "dependencies":  [
+                         "BaseLib"
+                     ],
+    "affects_gameplay":  true
+}
