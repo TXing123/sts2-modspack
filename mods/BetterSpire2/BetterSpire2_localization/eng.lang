@@ -31,6 +31,7 @@
   "setting.skip_splash": "Skip Splash Screen",
   "setting.show_clock": "Show Clock",
   "setting.clock_24h": "24-Hour Format",
+  "setting.show_potion_chance": "Show Potion Drop Chance",
 
   "setting.hold_r_restart": "Hold R to Restart Run",
   "setting.double_tap_r": "Double-Tap R to Reset Round",
