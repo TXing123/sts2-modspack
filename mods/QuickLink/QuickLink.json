@@ -3,7 +3,7 @@
   "name": "皮皮快连: QuickLink",
   "author": "皮一下就很凡@Bilibili",
   "description": "皮皮快连：Steam联机快速回退。房主一键回到历史节点，队友自动回房、自动准备。 | Steam multiplayer quick rewind with host-selected checkpoints, auto-rejoin, and auto-ready.",
-  "version": "0.9.8",
+  "version": "0.9.9",
   "has_pck": true,
   "has_dll": true,
   "dependencies": [],
