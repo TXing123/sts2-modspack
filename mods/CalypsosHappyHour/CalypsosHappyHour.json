@@ -1,9 +1,9 @@
-﻿{
+{
   "id": "CalypsosHappyHour",
-  "name": "Calypso'sHappyHour / 卡里普索的欢乐时光",
+  "name": "Calypso's Happy Hour / 卡里普索的欢乐时光",
   "author": "Yuri'sCat Calypso",
-  "description": "Adds 30+ co-op cards and a new Rest Site option to make multiplayer more fun. 添加30张+和好友交互相关的卡牌，以及额外篝火选项，让联机更加有趣。",
-  "version": "v1.1.4",
+  "description": "Version 1.2 is live! New cards + new merchant ! 1.2版本上线！增加新卡+新商人！| Adds 60+ friend-interaction cards and new Shop/Campfire content to make co-op more fun. | 添加60张+和好友交互相关的卡牌以及全新商店/篝火内容，让联机更加有趣。",
+  "version": "v1.2.1",
   "has_pck": true,
   "has_dll": true,
   "dependencies": [],
